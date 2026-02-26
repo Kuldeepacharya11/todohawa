@@ -71,7 +71,7 @@ For example, I initially used HTML tables to display the list of tasks, but I co
 ## AWS Deployment
 The app is deployed on AWS cloud services. Below is the architecture diagram of the deployment:
 
-![AWS Architecture](images/ws-architecture.png)
+![AWS Architecture](images/aws-architecture.png)
 
 ---
 
