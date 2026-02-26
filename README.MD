@@ -5,7 +5,7 @@ A simple to-do app built with Python using the Flask framework. The app allows u
 
 Current functionality only allows users to edit tasks in a single master to-do list. For future improvements, I'd consider creating functionality to manage different to-do lists (like a traditional Reminders app) and viewing completed tasks.  
 
-![Current Version of the App](images/current-version-of-romans-to-do-app.png)
+
 
 ---
 
@@ -64,20 +64,20 @@ One of the biggest challenges of creating this app was writing HTML and CSS code
 
 For example, I initially used HTML tables to display the list of tasks, but I couldn't get it to display the way I wanted. I found a work-around by using containers and divs. Here's what an earlier draft looked like: 
 
-![Earlier Version of the App](images/first-version-of-my-to-do-app.png)
+
 
 ---
 
 ## AWS Deployment
 The app is deployed on AWS cloud services. Below is the architecture diagram of the deployment:
 
-![AWS Architecture](images/aws-architecture.png)
+![AWS Architecture](images/your-aws-architecture.png)
 
 ---
 
 ## Contact Information
 I welcome any feedback from the community and you're welcome to fork the repository for your own project.  
-You can reach me at [roman.pk@yahoo.com](mailto:roman.pk@yahoo.com).
+
 
 ---
 
